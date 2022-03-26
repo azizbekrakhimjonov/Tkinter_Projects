@@ -1,0 +1,10 @@
+Bob,bobby123@gmail.com,20000
+Harrison,harry000@gmail.com,23000
+Jane,jane1999@hotmail.com,19000
+Mark,markus@gmail.com,15000
+Emilia,emi@hotmail.com,27000
+John,johnhubbard@gmail.com,21000
+Morax,jade@hotmail.com,0
+Ali,alikhan@gmail.com,30000
+Shaman,magicboy@fantasy.com,5000
+Coder,coder@coderslegacy.com,25000
